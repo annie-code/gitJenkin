@@ -1,0 +1,16 @@
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\bin\Debug\net5.0\DemoJenkin.exe
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\bin\Debug\net5.0\DemoJenkin.deps.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\bin\Debug\net5.0\DemoJenkin.runtimeconfig.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\bin\Debug\net5.0\DemoJenkin.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\bin\Debug\net5.0\DemoJenkin.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\bin\Debug\net5.0\ref\DemoJenkin.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\bin\Debug\net5.0\DemoJenkin.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\DemoJenkin.csproj.AssemblyReference.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\DemoJenkin.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\DemoJenkin.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\DemoJenkin.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\DemoJenkin.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\DemoJenkin.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\ref\DemoJenkin.dll
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\DemoJenkin.pdb
+F:\ContentDevelopment\IIHT\CTS\ADM22DF48\DemoJenkin\DemoJenkin\obj\Debug\net5.0\DemoJenkin.genruntimeconfig.cache
